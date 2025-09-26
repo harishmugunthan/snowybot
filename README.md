@@ -1,4 +1,4 @@
-# Discord Bot Website Template
+# Snowy Discord Bot Website 
 
 A modern, responsive website for the Discord music bot. This website showcases the bot's features, commands, and premium offerings with a sleek, user-friendly interface.
 
@@ -11,22 +11,6 @@ A modern, responsive website for the Discord music bot. This website showcases t
 - **Legal Pages**: Comprehensive Terms of Service and Privacy Policy
 - **Spotify Authentication**: Callback page for Spotify API integration
 - **Animated Elements**: Engaging animations and interactive elements
-
-## 🚀 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AnomusLY/Discord-Bot-Website-Template.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd Discord-Bot-Website-Template
-   ```
-
-3. Open the project in your preferred code editor.
-
-4. Launch the website using a local server or by opening `index.html` in your browser.
 
 ## 💻 Usage
 
@@ -60,17 +44,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📞 Contact
-
-- **Discord Server**: [Join our community](https://discord.gg/rp4H4YPvwJ)
-- **GitHub**: [AnomusLY](https://github.com/AnomusLY)
-
-## 📸 Screenshots
-
-![Home Page](./assets/images/screenshot-home.png)
-![Commands Section](./assets/images/screenshot-commands.png)
-![Premium Plans](./assets/images/screenshot-premium.png)
-
 ---
 
-© 2025 Anomus.LY. All rights reserved.
+© 2025 Harish Mugunthan. All rights reserved.
+
